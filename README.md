@@ -1,4 +1,4 @@
-# TKBA
+# Topological Kernel Bayesian Adaptive Resonance Theory
 
 
 (c) 2020 Naoki Masuyama
